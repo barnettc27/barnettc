@@ -1,3 +1,4 @@
+![octocat-1696334529602](https://github.com/barnettc27/barnettc/assets/146837599/91c868ed-2287-4eb3-9af4-2876b5dec1bf)
 # barnettc
 ### Code.org GameLab
 
