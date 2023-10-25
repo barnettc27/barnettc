@@ -15,7 +15,8 @@
 
 >[Animation]
 >
->[Interactive Card]
+>[Interactive Card](https://studio.code.org/projects/gamelab/aYQartNfSD6tJPv7jRmJfj44vEiK9aaRlv6LXHqGtms)
+>In this project I worked with another student and we created a Congratulations card. There's 3 sprites and we used conditionals to make the sprites change when you move your mouse to reveal a dog.
 >
 >[Side Scroller]
 >
