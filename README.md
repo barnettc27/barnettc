@@ -18,8 +18,8 @@
 >[Interactive Card](https://studio.code.org/projects/gamelab/aYQartNfSD6tJPv7jRmJfj44vEiK9aaRlv6LXHqGtms)
 >In this project I worked with another student and we created a Congratulations card. There's 3 sprites and we used conditionals to make the sprites change when you move your mouse to reveal a dog.
 >
->[Side Scroller]
->
+>[Side Scroller](https://studio.code.org/projects/gamelab/hVen3z3gyub7lvOVGJnN7HPRB6VlSKdkFIDa-LPnt60)
+>In this project I worked with another student to make a game  with a player, target, and obstacles. The target and obstacles go on a loop across the screen and the player moves up and down.
 >[Flyer Game]
 >
 >[Project- Design a game]
