@@ -20,6 +20,8 @@
 >
 >[Side Scroller](https://studio.code.org/projects/gamelab/hVen3z3gyub7lvOVGJnN7HPRB6VlSKdkFIDa-LPnt60)
 >In this project I worked with another student to make a game  with a player, target, and obstacles. The target and obstacles go on a loop across the screen and the player moves up and down.
->[Flyer Game]
+>[Flyer Game](https://studio.code.org/projects/gamelab/VZ_cVb4iR_lxbMHr4kUAxv5lwK0lyT1rtZfeCMsKVyA)
+>In this game there is  aplayer, target, and obstacles. The obstacles loop around and push the player off the screen.
 >
->[Project- Design a game]
+>[Project- Design a game](https://studio.code.org/projects/gamelab/5al2TG-JCeMqOCnKfj8YwKhoDoVYsN0Dhqr5oXLRXGs)
+>In this project we got to design our own game, I did one where the enemy sprites loop across the screen and the player has to push them off and protect the coin.
