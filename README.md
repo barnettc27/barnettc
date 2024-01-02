@@ -40,4 +40,4 @@
 >Click the pictures of the instrument to play its sound. Also you can record and listen to your recording.
 
 [Find the Gold](https://ai2.appinventor.mit.edu/#5497223498301440)
-
+>Tilt your screen to lead the ball through the maze and get to the gold, and avoid the walls.
