@@ -38,3 +38,6 @@
 
 [Music Maker](https://gallery.appinventor.mit.edu/?galleryid=b7955137-73e6-4421-ba2a-1460c4893c48)
 >Click the pictures of the instrument to play its sound. Also you can record and listen to your recording.
+
+[Find the Gold](https://ai2.appinventor.mit.edu/#5497223498301440)
+
