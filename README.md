@@ -41,3 +41,6 @@
 
 [Find the Gold](https://ai2.appinventor.mit.edu/#5497223498301440)
 >Tilt your screen to lead the ball through the maze and get to the gold, and avoid the walls.
+
+[Pacman](https://gallery.appinventor.mit.edu/?galleryid=f56b1afc-00e2-49c5-b3e7-441141161c23)
+>In this project my partner and I used balls and imagesprites to create a game based on pacman.
