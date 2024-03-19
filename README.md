@@ -49,3 +49,6 @@
 
 [Paradise beach](https://academy.cs.cmu.edu/exercise/4132/)
 >In this project I used python coding to create an image of a beach with a little island. In the water is a boat and on the island is a palm tree.
+
+[Day and Night Creative Tast](https://academy.cs.cmu.edu/exercise/4190/)
+>In this project my partner and I made a scene with python code. When you click the scene it changes from day to night.
