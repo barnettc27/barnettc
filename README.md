@@ -52,3 +52,9 @@
 
 [Day and Night Creative Tast](https://academy.cs.cmu.edu/exercise/4190/)
 >In this project my partner and I made a scene with python code. When you click the scene it changes from day to night.
+
+[Dark Ocean](https://academy.cs.cmu.edu/exercise/4236/)
+>My partner and I made a dark screen and when you move your mouse the flashlight follows, revealing fish in the ocean.
+
+[Teddy Bear](https://academy.cs.cmu.edu/exercise/4282/)
+>In this project there is a teddy bear with options for different features next to it. When you chose one it wil change the bear's apearence to what you picked.
